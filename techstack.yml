@@ -2,7 +2,7 @@ repo_name: Marc-g-Z/gmaps
 report_id: ca157a662336e36b633b72a7a67e58fd
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T09:22:10+00:00'
+timestamp: '2024-02-29T18:06:46+00:00'
 requested_by: pbugnion
 provider: github
 branch: master
@@ -150,7 +150,7 @@ tools:
   last_updated_by: Pascal Bugnion
   last_updated_on: 2016-06-05 18:25:56.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 1.15.2
   license: MIT
